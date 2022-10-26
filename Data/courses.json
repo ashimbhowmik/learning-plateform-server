@@ -1,0 +1,50 @@
+[
+  {
+    "id": "154f4sdf545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": " Database Management System",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "15s54f4sdf545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Python",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "154f4sdfsd885",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Java",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "54d4f4sdf545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Software Engineering",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "15ed55df545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Computer Fundamentals",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "459ed4sdf545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Oparting System",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "565def4sdf545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Compailer Design",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  },
+  {
+    "id": "15ff558f545",
+    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "title": "Data Mining",
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+  }
+]
