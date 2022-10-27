@@ -2,49 +2,50 @@
   {
     "id": "154f4sdf545",
     "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
-    "title": " Database Management System",
+    "title": " Database",
+    "price": 300,
     "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
   },
   {
     "id": "15s54f4sdf545",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
     "title": "Python",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+    "price": 310,
+    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
   },
   {
     "id": "154f4sdfsd885",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "img": "https://dev.java/assets/images/java-logo-vert-blk.png",
     "title": "Java",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+    "price": 320,
+    "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. "
   },
   {
     "id": "54d4f4sdf545",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "img": "https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg",
     "title": "Software Engineering",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+    "price": 330,
+    "details": "Software engineering is a systematic engineering approach to software development. A software engineer is a person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer software"
   },
   {
     "id": "15ed55df545",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
-    "title": "Computer Fundamentals",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+    "img": "https://static.gigabyte.com/StaticFile/Image/Global/bba2b866d6c24d19788b7b0eac880edb/PromotionBanner/94/png",
+    "title": "Computer ",
+    "price": 340,
+    "details": "Using a Computer to Its Full Potential: A Comprehensive Introduction to Computers The following are some of the skills you'll need: - Desktop support; IT support; computer fundamentals; and basic computer skills. Understand each and every topic of computer science and become an expert in its application. Because we all have computers or are computer students, I am concentrating my efforts in this course on assisting you in understanding every vital concept you will encounter for the first time because Computer Basic is the most important concept you will encounter."
   },
   {
     "id": "459ed4sdf545",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "img": "https://1.bp.blogspot.com/-ji0b2CRNVaA/YDZ3V5AEjyI/AAAAAAAABFE/LT_3uc1x3goZGKlJ6iBVmZHbDtWDTcpuwCLcBGAsYHQ/s826/5_Advantages_and_Disadvantages_of_Operating_System_Limitations_%2526_Benefits_of_Operating_System.jpg",
     "title": "Oparting System",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
-  },
-  {
-    "id": "565def4sdf545",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
-    "title": "Compailer Design",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+    "price": 350,
+    "details": "Introduction to Operating Systems is a graduate-level introductory course in operating systems. This course teaches the basic operating system abstractions, mechanisms, and their implementations. The core of the course contains concurrent programming (threads and synchronization), inter process communication, and an introduction to distributed operating systems"
   },
   {
     "id": "15ff558f545",
-    "img": "https://learnsql.com/blog/what-is-dbms/DBMS.png",
+    "img": "https://webaxis.ca/images/service/data-mining.png",
     "title": "Data Mining",
-    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the databases logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
+    "price": 370,
+    "details": "The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization. The Capstone project task is to solve real-world data mining challenges using a restaurant review data set from Yelp."
   }
 ]
